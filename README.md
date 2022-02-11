@@ -4,7 +4,7 @@ It is created for AI course which was offered in spring 2022 at kiet
 | Group Members | Member Student ID |
 | ------------- | ----------------- |
 | Minhal Naqvi  | 63802             |
-
+| muhammad hamza| 63790.            |
 
 # ***About Minhal Naqvi:***
 
