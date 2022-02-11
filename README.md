@@ -5,7 +5,8 @@ It is created for AI course which was offered in spring 2022 at kiet
 | ------------- | ----------------- |
 | Minhal Naqvi  | 63802             |
 | muhammad hamza| 63790.            |
-| Mustajab Amin | 64340.            |
+| Mustajab Amin | 64340.       
+| Abdul Quddus  | 64289             |
 
 # ***About Minhal Naqvi:***
 
