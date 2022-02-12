@@ -4,7 +4,7 @@ It is created for AI course which was offered in spring 2022 at kiet
 | Group Members   | Member Student ID |
 | --------------- | ----------------- |
 | Minhal Naqvi    | 63802             |
-| Hassaan Raheem  | 64289             |
+| Hassaan Raheem  | 64091             |
 | muhammad hamza  | 63790.            |
 | Mustajab Amin   | 64340.            |
 | Abdul Quddus    | 64289             |
