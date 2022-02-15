@@ -27,3 +27,6 @@ I think I chosen this field as is is related to computer and I am using computer
 Actually I dont have much knowledge about Ai but as much as I know it means to make machine intelligent for doing any task and I maybe not choose Ai if it is elective as making machine intelligent is not our primary goal I think first of all human should be make human I am not against Ai It has it's own importance and application but my point is our first priority should be the first one for which no one has designed any course.
 # *** About Abdul Quddus ***
 My name is Abdul Quddus I am in 5th semester I am the student of BSCS I want work as a data scientist in future.
+
+# *** About mustajab ameen ***
+My name is mustajab ameen.I am in 6th semester.I am the student of BSCS. I am working in SSU as a assisstant sub inspector.
