@@ -28,5 +28,9 @@ Actually I dont have much knowledge about Ai but as much as I know it means to m
 # *** About Abdul Quddus ***
 My name is Abdul Quddus I am in 5th semester I am the student of BSCS I want work as a data scientist in future.
 
-# *** About mustajab ameen ***
+# ** About mustajab ameen **
 My name is mustajab ameen.I am in 6th semester.I am the student of BSCS. I am working in SSU as a assisstant sub inspector.
+
+# *** About Muhammad Hamza ***
+My name is Muhammad Hamza.I am in 6th semester.I am the student of BSCS. Now a days I am doing car sell and purchase. I want to work as a webdeveloper nd in future i dream to open a software house .
+
