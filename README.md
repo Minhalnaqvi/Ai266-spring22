@@ -47,4 +47,5 @@ My name is mustajab ameen.I am in 6th semester.I am the student of BSCS. I am wo
 
 # *** About Muhammad Hamza ***
 My name is Muhammad Hamza.I am in 6th semester.I am the student of BSCS. Now a days I am doing car sell and purchase. I want to work as a webdeveloper nd in future i dream to open a software house .
+![mustajab score](https://user-images.githubusercontent.com/99421338/169545399-dd5ccfe5-6334-4f0e-9434-0cb2daf3b4b3.JPG)
 
