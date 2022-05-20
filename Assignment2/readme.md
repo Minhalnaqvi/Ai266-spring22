@@ -3,7 +3,7 @@
 ---
 
 ### Name(ID) : Muhammad Hamza (63790)
-#### Kaggle Score : (
+#### Kaggle Score : 
 
 ![Capture](https://user-images.githubusercontent.com/74507654/169598924-069d6742-ed54-4cc3-911d-4068da79bbc5.PNG)
 ---
