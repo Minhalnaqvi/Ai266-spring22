@@ -1,6 +1,6 @@
 | Name | S.ID | Model |
 | ----------- | ----------- | ----------- |
-| muhammad Hamza | 63790 | naive bayes 
+| muhammad Hamza | 63790 | mixture of naive bayes + decision tree classifier 
 
 ### Difficulties That I Faced :
 - In csv's data is unclean so i used pandas to clean the data first.
